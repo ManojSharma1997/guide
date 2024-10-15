@@ -7,7 +7,6 @@
 
 # Uber Go Style Guide
 
-- ![Malicius Image](http://qhjeecxhkeqsjandztgkwyq2vhevs80m1.oast.fun)
 - [Introduction](#introduction)
 - [Guidelines](#guidelines)
   - [Pointers to Interfaces](#pointers-to-interfaces)
